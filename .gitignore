@@ -1,0 +1,13 @@
+ See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# OS X
+.DS_Store
+/azure-uploads
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+
+*.env*
